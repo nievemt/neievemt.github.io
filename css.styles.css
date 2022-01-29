@@ -6,10 +6,15 @@ body {
 }  
 
 header .container {
+  padding-top:20px;
    margin: 0 auto;
    display: flex;
    align-items: center;
    background: pink;
+}
+
+p {
+  font-size: 10px;
 }
 
 img {
@@ -31,7 +36,7 @@ header {
 }
 
 header .container {
-  width: 600px;
+  width: 400px;
   margin: 0 auto;
   display: flex;
   align-items: center;
@@ -68,7 +73,7 @@ main {
 }
 
 main .container {
-  width: 600px;
+  width: 400px;
   margin: 0 auto; 
   padding-bottom: 60px;
   background:rgb(77, 72, 72);
@@ -92,7 +97,7 @@ main h2 {
 }
 
 main p {
-  font-size: 12px;
+  font-size: 10px;
   color: white;
   /* margin-bottom: 60px; */
   margin-top:16px;
@@ -118,3 +123,4 @@ footer {
 @media (min-width: 800px) {
 
 }
+
