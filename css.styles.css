@@ -29,7 +29,7 @@ p {
 /* header */
 
 header {
-  background: pink;
+  background: pinkrgb(255, 207, 215);
   font-family:Georgia, 'Times New Roman', Times, serif;
   font-style: italic;
   color: rgb(77, 72, 72);
@@ -43,7 +43,7 @@ header .container {
 }
 
 header .container div + div {
-  margin-left: 28px;
+  margin-left: 16px;
 }
 
 header h1 {
