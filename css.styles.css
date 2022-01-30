@@ -30,7 +30,7 @@ p {
 /* header */
 
 header {
-  background: #D9AACD;
+  background: #C3B3CF;
   font-family:Georgia, 'Times New Roman', Times, serif;
   font-style: italic;
   color: rgb(77, 72, 72);
@@ -39,8 +39,6 @@ header {
 header .container {
   width: 400px;
   margin: 0 auto;
-  /* display: flex; */
-  /* align-items: center; */
 }
 
 header .container div + div {
@@ -67,6 +65,7 @@ header p {
   margin-bottom: 6px;
   text-align: center;
   font-family: none;
+  font-size: 10px;
 }
 /* main */
 
@@ -91,7 +90,7 @@ main h1 {
 
 main h2 {
   font-weight: noral;
-  font-size: 16px;
+  font-size: 14px;
   color: white;
   /* padding: 20px 10px 0; */
   margin-top: 20px;
